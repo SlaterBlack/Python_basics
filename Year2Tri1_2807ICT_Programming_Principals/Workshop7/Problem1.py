@@ -9,4 +9,4 @@ for i in range(len(contentlst)):
     if contentlst[i]=='file':
         count+=1
 infile.close()
-print(f'number of times the thew word file appeared: {count}')
+print(f'number of times the the word file appeared: {count}')
