@@ -1,5 +1,0 @@
-hours_worked = float(input("how many hours have you worked per day?"))
-days_worked = float(input("How many days do you work a week?"))
-annual_salary = float(input("What is your annual salary?"))
-wage = float(((annual_salary / 52) / days_worked) / hours_worked)
-print(f'Hourly wage is {wage}')
